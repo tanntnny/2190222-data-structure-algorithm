@@ -10,7 +10,7 @@
 * Question 3 ([source](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q3_toStudent_6892265a187a5.zip)): Card Game Deck Manager
 
 ## Materials
-* Check out my computer olympic practice codes [here](https://github.com/tanntnny/como). This includes ***Linked list, Heap, Disjoint set union, Tree, Binary search tree, Graph algorithms, Dynamic programming techniques, Divide and conquer, Dijkstra's algorithm, Minimum spanning tree algorithms, Topological sort,*** and more.
+* Check out my **COMPUTER OLYMPIC** practice codes [here](https://github.com/tanntnny/como). This includes what we will be studying thoughout the semester and much more beyond that!.
 
 ## Contacts
 ig: tanntnny
