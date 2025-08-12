@@ -1,13 +1,16 @@
 # 2190222-data-structure-algorithm
 
-## Setting up Eclipse
+## Getting Started
 * Don't forget to use Java Development Kit (JDK) 21 or later.
 * For JUnit testing, make sure to include the JUnit library in your project build path.
 
-## Problem Resources (PDF & Source Code)
+## Questions
 * [Question 1](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q1_toStudent_68921f290eb89.zip): CPTS Ticket Machine
 * [Question 2](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q2_toStudent_68921f9ddd4a6.zip): Misa Shop
 * [Question 3](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q3_toStudent_6892265a187a5.zip): Card Game Deck Manager
+
+## Materials
+* **MIGHT HELP:** Check out my computer olympic practice source codes [here](https://github.com/tanntnny/como).
 
 ## Contacts
 ig: tanntnny
