@@ -10,7 +10,7 @@
 * [Question 3](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q3_toStudent_6892265a187a5.zip): Card Game Deck Manager
 
 ## Materials
-* **MIGHT HELP:** Check out my computer olympic practice codes [here](https://github.com/tanntnny/como). This includes **LINKED LIST, HEAP, DISJOINT SET UNION, TREE, BINARAY SEARCH TREE, GRAPH ALGO, DYNAMIC PROGRAMMING TECHNIQUES, DIVIDE AND CONQUER, DIJKSTRA ALGO, MINIMUM SPANNING TREE ALGO, TOPOLOGICAL SORT,** and more.
+* Check out my computer olympic practice codes [here](https://github.com/tanntnny/como). This includes ***LINKED LIST, HEAP, DISJOINT SET UNION, TREE, BINARAY SEARCH TREE, GRAPH ALGO, DYNAMIC PROGRAMMING TECHNIQUES, DIVIDE AND CONQUER, DIJKSTRA ALGO, MINIMUM SPANNING TREE ALGO, TOPOLOGICAL SORT,*** and more.
 
 ## Contacts
 ig: tanntnny
