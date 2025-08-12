@@ -5,9 +5,9 @@
 * For JUnit testing, make sure to include the JUnit library in your project build path.
 
 ## Problem Resources (PDF & Source Code)
-* [Question 1](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q1_toStudent_68921f290eb89.zip) CPTS Ticket Machine
-* [Question 2](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q2_toStudent_68921f9ddd4a6.zip) Misa Shop
-* [Question 3](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q3_toStudent_6892265a187a5.zip) Card Game Deck Manager
+* [Question 1](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q1_toStudent_68921f290eb89.zip): CPTS Ticket Machine
+* [Question 2](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q2_toStudent_68921f9ddd4a6.zip): Misa Shop
+* [Question 3](https://www.mycourseville.com/sites/all/modules/courseville/files/ckfinder/userfiles/100000371546748/files/Q3_toStudent_6892265a187a5.zip): Card Game Deck Manager
 
 ## Contacts
 ig: tanntnny
