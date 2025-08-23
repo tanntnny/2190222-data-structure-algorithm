@@ -37,7 +37,7 @@ public class CardUtil {
 		try {
 			File fileToRead = new File(filename);
 			ArrayList<UnitCard> cardsFromFile = new ArrayList<UnitCard>();
-			Scanner reader = new Scanner(filename);
+			Scanner reader = new Scanner(fileToRead);
 			while ( reader.hasNextLine() ) {
 				String line = reader.nextLine();
 				String splitedLine[] = line.split(",");
